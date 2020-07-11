@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/PromotionsEngine/Repo/ajio-service-promotion" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../MyDocuments/OrderManagement" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/Code/ajio-service-promotion" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/ImposterPOC/imposter-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/Pricing-Mock" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/Repo/ajio-service-promotion" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/ajio-service-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/mockserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/promotion-engine-management-services" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/runtime/promotion-engine-commons" value="PREVIEW" />
+        <entry key="$USER_HOME$/PromotionsEngine/runtime/promotion-engine-runtime-services" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
+    <option name="y" value="23" />
+    <option name="width" value="1654" />
+    <option name="height" value="947" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
