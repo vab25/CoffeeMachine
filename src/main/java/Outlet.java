@@ -1,14 +1,16 @@
 public class Outlet implements Runnable {
-    final int timeToPrepare = 2000;
-    String beverageMessage;
-    public Outlet(String s) {
-        beverageMessage=s;
+
+    final private Integer timeToPrepare = 2000;
+    private String beverageMessage;
+
+    public Outlet(String beverageMessage) {
+        this.beverageMessage = beverageMessage;
     }
 
     public void run(){
         try {
             Thread.sleep(timeToPrepare);
-            System.out.println(beverageMessage);
+            System.out.println(this.beverageMessage);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

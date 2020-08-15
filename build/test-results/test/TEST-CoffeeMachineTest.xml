@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoffeeMachineTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-08-15T18:08:43" hostname="Vaibhavs-MacBook-Pro.local" time="29.02">
+  <properties/>
+  <testcase name="health" classname="CoffeeMachineTest" time="22.907"/>
+  <testcase name="prepareValidBeverage" classname="CoffeeMachineTest" time="3.122"/>
+  <testcase name="serveBeverage" classname="CoffeeMachineTest" time="0.643"/>
+  <testcase name="prepareLowIngredientBeverage" classname="CoffeeMachineTest" time="0.562"/>
+  <testcase name="prepareInvalidBeverage" classname="CoffeeMachineTest" time="0.643"/>
+  <testcase name="displayBeverages" classname="CoffeeMachineTest" time="0.604"/>
+  <testcase name="reloadMachine" classname="CoffeeMachineTest" time="0.537"/>
+  <system-out><![CDATA[Check machine status
+hot_milk--500
+ginger_syrup--100
+sugar_syrup--100
+tea_leaves_syrup--100
+hot_water--500
+hot_coffee is prepared
+Refill Done!!!
+hot_coffee is prepared
+green_tea cannot be prepared because item green_mixture is not available
+black_tea is prepared
+hot_tea is prepared
+hot_coffee cannot be prepared because item hot_water is not sufficient
+green_tea cannot be prepared because item hot_water is not sufficient
+black_tea cannot be prepared because item hot_water is not sufficient
+hot_tea cannot be prepared because item hot_water is not sufficient
+Check machine status
+hot_milk--400
+ginger_syrup--60
+sugar_syrup--40
+tea_leaves_syrup--40
+hot_water--0
+Can not prepare any beverage.Please refill to resume.
+hot_coffee cannot be prepared because item hot_milk is not sufficient
+Beverage is not present
+Displaying Beverages
+hot_coffee->In-Stock
+green_tea cannot be prepared because item green_mixture is not available
+green_tea->Out-Of-Stock
+black_tea->In-Stock
+hot_tea->In-Stock
+Serving black_tea
+Serving hot_tea
+Serving hot_coffee
+Refill Done!!!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

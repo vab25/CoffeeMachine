@@ -1,0 +1,35 @@
+Check machine status
+hot_milk--500
+ginger_syrup--100
+sugar_syrup--100
+tea_leaves_syrup--100
+hot_water--500
+hot_coffee is prepared
+Refill Done!!!
+hot_coffee is prepared
+Igreen_tea cannot be prepared because item green_mixture is not available
+black_tea is prepared
+hot_tea is prepared
+Ghot_coffee cannot be prepared because item hot_water is not sufficient
+Fgreen_tea cannot be prepared because item hot_water is not sufficient
+Fblack_tea cannot be prepared because item hot_water is not sufficient
+Dhot_tea cannot be prepared because item hot_water is not sufficient
+Check machine status
+hot_milk--400
+ginger_syrup--60
+sugar_syrup--40
+tea_leaves_syrup--40
+hot_water--0
+6Can not prepare any beverage.Please refill to resume.
+Fhot_coffee cannot be prepared because item hot_milk is not sufficient
+Beverage is not present
+Displaying Beverages
+hot_coffee->In-Stock
+Igreen_tea cannot be prepared because item green_mixture is not available
+green_tea->Out-Of-Stock
+black_tea->In-Stock
+hot_tea->In-Stock
+Serving black_tea
+Serving hot_tea
+Serving hot_coffee
+Refill Done!!!
